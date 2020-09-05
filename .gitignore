@@ -1,0 +1,13 @@
+*.png
+*.jpg
+*.txt
+*.avi
+*.mp4
+
+# compiled python
+*.pyc
+__pycache__/
+
+# VI, VIM
+*.sw*
+*.sw*
