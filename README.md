@@ -37,7 +37,7 @@ Any contribution will be welcomed.
 
 4. **Visualization**
 
-   * How can we get Attention map in intermediate feature layer ?
+   * [How can we get Attention map in intermediate feature layer ?](https://github.com/Sungman-Cho/pytorch-playground/blob/master/visualization/get_attention_map.py)
    * How can we get Class Activation Map (CAM) by class?
    * How can we visualize vectors using T-SNE, LDA, PCA ?
    * How can we get Linear evaluation metrics ?
