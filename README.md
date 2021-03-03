@@ -1,6 +1,6 @@
 # Pytorch Playground
 
-This repo provides some useful codes for building pytorch models.
+This repo provides some useful codes for pytorch
 
 Any contribution will be welcomed.
 
@@ -8,7 +8,12 @@ Any contribution will be welcomed.
 
 ## Table of Contents
 
-1. **Dataset**
+1. Basics
+
+   * Autograd tutorial
+     
+
+2. **Dataset**
 
    * How can we make custom classification dataset ?
 
@@ -20,7 +25,7 @@ Any contribution will be welcomed.
 
      <br>
 
-2. **Loss functions**
+3. **Loss functions**
 
    * How can we use Dice loss in multi-class segmentation ?
 
@@ -30,12 +35,12 @@ Any contribution will be welcomed.
 
      <br>
 
-3. **Models**
+4. **Models**
 
    * How can we make block-like modules ? 
      <br>
 
-4. **Visualization**
+5. **Visualization**
 
    * [How can we get Attention map in intermediate feature layer ?](https://github.com/Sungman-Cho/pytorch-playground/blob/master/visualization/get_attention_map.py)
    * How can we get Class Activation Map (CAM) by class?
@@ -44,8 +49,10 @@ Any contribution will be welcomed.
    * How can we use tensorboard ? 
      <br>
 
-5. **Parallel processing**
+6. **Parallel processing**
 
    * How can we make multi-GPU environment ?
 
      <br>
+
+6. 
