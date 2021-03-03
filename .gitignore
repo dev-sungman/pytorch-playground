@@ -11,3 +11,4 @@ __pycache__/
 # VI, VIM
 *.sw*
 *.sw*
+*.DS_Store
