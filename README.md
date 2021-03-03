@@ -10,8 +10,7 @@ Any contribution will be welcomed.
 
 1. Basics
 
-   * Autograd tutorial
-     
+   * [Autograd tutorial](https://github.com/Sungman-Cho/pytorch-playground/blob/master/basics/Autograd.ipynb)
 
 2. **Dataset**
 
@@ -54,5 +53,3 @@ Any contribution will be welcomed.
    * How can we make multi-GPU environment ?
 
      <br>
-
-6. 
